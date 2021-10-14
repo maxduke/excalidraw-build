@@ -1,3 +1,3 @@
-/*! For license information please see 56.b50061e5.chunk.js.LICENSE.txt */
+/*! For license information please see 56.24abd20d.chunk.js.LICENSE.txt */
 (this.webpackJsonpexcalidraw=this.webpackJsonpexcalidraw||[]).push([[56],{235:function(e,t,n){"use strict";n.r(t);var r=n(5),c=n(8);t.default=function(){var e=Object(c.a)(r.mark((function e(t){var n,c,a,u,i=arguments;return r.wrap((function(e){for(;;)switch(e.prev=e.next){case 0:return n=i.length>1&&void 0!==i[1]?i[1]:{},Array.isArray(n)&&(n=n[0]),(c=document.createElement("a")).download=n.fileName||"Untitled",c.href=URL.createObjectURL(t),a=function(e){"function"==typeof u&&u(),resolve(e)},u=n.legacySetup&&n.legacySetup(a,(function(){return u(reject)}),c),e.abrupt("return",(c.addEventListener("click",(function(){setTimeout((function(){return URL.revokeObjectURL(c.href)}),3e4),a(null)})),c.click(),null));case 6:case"end":return e.stop()}}),e)})));return function(t){return e.apply(this,arguments)}}()}}]);
-//# sourceMappingURL=56.b50061e5.chunk.js.map
+//# sourceMappingURL=56.24abd20d.chunk.js.map
