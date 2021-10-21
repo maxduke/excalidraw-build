@@ -60,5 +60,5 @@ jobs:
           git config user.name maxduke
           git config user.email maxduke@gmail.com
           git add -A
-          git commit -m "sync. files on `date +'%Y-%m-%d %H:%M:%S'`"
+          git diff-index --quiet HEAD || git commit -m "sync. files on `date +'%Y-%m-%d %H:%M:%S'`"
           git push
