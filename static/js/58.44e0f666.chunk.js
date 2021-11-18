@@ -1,3 +1,0 @@
-/*! For license information please see 58.44e0f666.chunk.js.LICENSE.txt */
-(this.webpackJsonpexcalidraw=this.webpackJsonpexcalidraw||[]).push([[58],{220:function(e,t,n){"use strict";n.r(t),t.default=async function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:[{}];return Array.isArray(e)||(e=[e]),new Promise(((t,n)=>{const i=document.createElement("input");i.type="file";const c=[...e.map((e=>e.mimeTypes||[])).join(),e.map((e=>e.extensions||[])).join()].join();i.multiple=e[0].multiple||!1,i.accept=c||"";const a=e=>{"function"==typeof s&&s(),t(e)},s=e[0].legacySetup&&e[0].legacySetup(a,(()=>s(n)),i);i.addEventListener("change",(()=>{a(i.multiple?Array.from(i.files):i.files[0])})),i.click()}))}}}]);
-//# sourceMappingURL=58.44e0f666.chunk.js.map
