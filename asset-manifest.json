@@ -92,15 +92,15 @@
     "i18n-zh-HK-json.js.map": "./static/js/i18n-zh-HK-json.5930f8ac.chunk.js.map",
     "i18n-zh-TW-json.js": "./static/js/i18n-zh-TW-json.e591fdb9.chunk.js",
     "i18n-zh-TW-json.js.map": "./static/js/i18n-zh-TW-json.e591fdb9.chunk.js.map",
-    "image.js": "./static/js/image.54d278ae.chunk.js",
-    "image.js.map": "./static/js/image.54d278ae.chunk.js.map",
+    "image.js": "./static/js/image.6260b4b1.chunk.js",
+    "image.js.map": "./static/js/image.6260b4b1.chunk.js.map",
     "main.css": "./static/css/main.081a430b.chunk.css",
-    "main.js": "./static/js/main.58b06b95.chunk.js",
-    "main.js.map": "./static/js/main.58b06b95.chunk.js.map",
+    "main.js": "./static/js/main.1f942671.chunk.js",
+    "main.js.map": "./static/js/main.1f942671.chunk.js.map",
     "pwacompat.js": "./static/js/pwacompat.8e46ab60.chunk.js",
     "pwacompat.js.map": "./static/js/pwacompat.8e46ab60.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.332daeb9.js",
-    "runtime-main.js.map": "./static/js/runtime-main.332daeb9.js.map",
+    "runtime-main.js": "./static/js/runtime-main.00664b21.js",
+    "runtime-main.js.map": "./static/js/runtime-main.00664b21.js.map",
     "socketIoClient.js": "./static/js/socketIoClient.be1c4ab4.chunk.js",
     "socketIoClient.js.map": "./static/js/socketIoClient.be1c4ab4.chunk.js.map",
     "static/js/51.acb8a300.chunk.js": "./static/js/51.acb8a300.chunk.js",
@@ -148,9 +148,9 @@
     "static/js/firebase.27bc5d48.chunk.js.LICENSE.txt": "./static/js/firebase.27bc5d48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.332daeb9.js",
+    "static/js/runtime-main.00664b21.js",
     "static/js/51.acb8a300.chunk.js",
     "static/css/main.081a430b.chunk.css",
-    "static/js/main.58b06b95.chunk.js"
+    "static/js/main.1f942671.chunk.js"
   ]
 }
