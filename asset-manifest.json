@@ -95,8 +95,8 @@
     "image.js": "./static/js/image.3c79be47.chunk.js",
     "image.js.map": "./static/js/image.3c79be47.chunk.js.map",
     "main.css": "./static/css/main.eab21544.chunk.css",
-    "main.js": "./static/js/main.8a66614b.chunk.js",
-    "main.js.map": "./static/js/main.8a66614b.chunk.js.map",
+    "main.js": "./static/js/main.868a22db.chunk.js",
+    "main.js.map": "./static/js/main.868a22db.chunk.js.map",
     "pwacompat.js": "./static/js/pwacompat.379f30cd.chunk.js",
     "pwacompat.js.map": "./static/js/pwacompat.379f30cd.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.e8510674.js",
@@ -133,6 +133,6 @@
     "static/js/runtime-main.e8510674.js",
     "static/js/51.ccad7218.chunk.js",
     "static/css/main.eab21544.chunk.css",
-    "static/js/main.8a66614b.chunk.js"
+    "static/js/main.868a22db.chunk.js"
   ]
 }
