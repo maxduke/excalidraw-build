@@ -107,8 +107,8 @@
     "runtime-main.js.map": "./static/js/runtime-main.3ebf0427.js.map",
     "socketIoClient.js": "./static/js/socketIoClient.1a7cf819.chunk.js",
     "socketIoClient.js.map": "./static/js/socketIoClient.1a7cf819.chunk.js.map",
-    "static/js/53.8a26d99a.chunk.js": "./static/js/53.8a26d99a.chunk.js",
-    "static/js/53.8a26d99a.chunk.js.map": "./static/js/53.8a26d99a.chunk.js.map",
+    "static/js/53.b9aa66a2.chunk.js": "./static/js/53.b9aa66a2.chunk.js",
+    "static/js/53.b9aa66a2.chunk.js.map": "./static/js/53.b9aa66a2.chunk.js.map",
     "static/js/54.b369dde4.chunk.js": "./static/js/54.b369dde4.chunk.js",
     "static/js/54.b369dde4.chunk.js.map": "./static/js/54.b369dde4.chunk.js.map",
     "static/js/55.7228ffaa.chunk.js": "./static/js/55.7228ffaa.chunk.js",
@@ -137,7 +137,7 @@
     "service-worker.js.map": "./service-worker.js.map",
     "static/css/main.fd25554d.chunk.css.map": "./static/css/main.fd25554d.chunk.css.map",
     "static/js/0.a7d783b0.chunk.js.LICENSE.txt": "./static/js/0.a7d783b0.chunk.js.LICENSE.txt",
-    "static/js/53.8a26d99a.chunk.js.LICENSE.txt": "./static/js/53.8a26d99a.chunk.js.LICENSE.txt",
+    "static/js/53.b9aa66a2.chunk.js.LICENSE.txt": "./static/js/53.b9aa66a2.chunk.js.LICENSE.txt",
     "static/js/54.b369dde4.chunk.js.LICENSE.txt": "./static/js/54.b369dde4.chunk.js.LICENSE.txt",
     "static/js/55.7228ffaa.chunk.js.LICENSE.txt": "./static/js/55.7228ffaa.chunk.js.LICENSE.txt",
     "static/js/62.42c4b53c.chunk.js.LICENSE.txt": "./static/js/62.42c4b53c.chunk.js.LICENSE.txt",
@@ -147,7 +147,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3ebf0427.js",
-    "static/js/53.8a26d99a.chunk.js",
+    "static/js/53.b9aa66a2.chunk.js",
     "static/css/main.fd25554d.chunk.css",
     "static/js/main.39d7fca3.chunk.js"
   ]
